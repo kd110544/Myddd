@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         flingContainer = findViewById(R.id. frame);
 
         al = new ArrayList();
-        al.add("aaa"); /*改照片~~~~*/
+        al.add("aaa"); /*改照片~123~~~*/
         al.add("c");
         al.add("bbb");
         al.add("ddd");
